@@ -31,9 +31,9 @@ include('db.php');
 <div class="banner-top">
 			<div class="social-bnr-agileits">
 				<ul class="social-icons3">
-								<li><a href="https://code-projects.org/" class="fa fa-facebook icon-border facebook"> </a></li>
-								<li><a href="https://code-projects.org/" class="fa fa-twitter icon-border twitter"> </a></li>
-								<li><a href="https://code-projects.org/" class="fa fa-google-plus icon-border googleplus"> </a></li>
+								<li><a href="" class="fa fa-facebook icon-border facebook"> </a></li>
+								<li><a href="" class="fa fa-twitter icon-border twitter"> </a></li>
+								<li><a href="" class="fa fa-google-plus icon-border googleplus"> </a></li>
 							</ul>
 			</div>
 			<div class="contact-bnr-w3-agile">
